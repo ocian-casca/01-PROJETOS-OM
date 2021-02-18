@@ -1,0 +1,7 @@
+.parceiros{
+    -webkit-filter:grayscale(100%);
+}
+.parceiros:hover{
+    -webkit-filter:grayscale(0%);
+    transition: 1s;
+}
